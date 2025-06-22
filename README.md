@@ -32,6 +32,7 @@ This innovative medical diagnostic platform leverages AI and machine learning to
 ![upload](screenshot/upload.png)
 ![doctors Page](screenshot/doctors.png)
 ![history Page](screenshot/history.png)
+![history Page](screenshot/Screenshot%20(23).png)
 ## 🎯 Achievements
 
 - Deployed a working AI system for medical diagnosis
